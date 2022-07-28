@@ -12,3 +12,11 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/181569009-a6604810-047d-43e3-a788-7be213472e65.png)
 
+## 4. Creamos index.jsp
+
+![image](https://user-images.githubusercontent.com/31961588/181575454-1cc4e613-aa60-4f3e-85a0-19eb93b695ab.png)
+
+**index.jsp**
+
+![image](https://user-images.githubusercontent.com/31961588/181575859-e93d0863-6276-490a-9ffd-e5e70de6cc58.png)
+
