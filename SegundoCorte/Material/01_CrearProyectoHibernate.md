@@ -25,6 +25,9 @@ No tener activo software de proteccion como antivirus fireworks, va impidier con
 
 ## 4. Se crea el archivo de persistence.xml
 
+![image](https://user-images.githubusercontent.com/31961588/182504176-45b5cc1d-72ca-4ef9-89e9-8d50128f6605.png)
+
+
 ```Xml
 <?xml version="1.0" encoding="UTF-8"?>
 <persistence version="2.2" xmlns="http://xmlns.jcp.org/xml/ns/persistence"
