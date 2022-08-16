@@ -1,4 +1,4 @@
-## Desarrollo Aplicaciones Empresariales- UTS 2022-02
+## Desarrollo de Aplicaciones Empresariales- UTS 2022-02
 
 
 **Grupo D192**
