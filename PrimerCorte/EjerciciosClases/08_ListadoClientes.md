@@ -37,3 +37,22 @@
 ## 6. Ejecutamos el proyecto
 
 ![image](https://user-images.githubusercontent.com/31961588/184735836-62b3951f-11d6-4c37-97f3-418031db95ae.png)
+
+![image](https://user-images.githubusercontent.com/31961588/185753636-e582f330-2ff9-4938-92ba-d912240ce39e.png)
+
+## 7. Revisemos como está nuestra configuración del ambiente de trabajo
+
+**Compilamos con Java 1.8**
+
+![image](https://user-images.githubusercontent.com/31961588/185753720-e0792e07-b6b7-4b62-b426-3a5293770357.png)
+
+**Ejecuteamos**
+
+![image](https://user-images.githubusercontent.com/31961588/185754098-cb5aefa1-3d24-44b4-ac0f-6fefd690e4d3.png)
+
+**Version de tomcat**
+
+![image](https://user-images.githubusercontent.com/31961588/185754120-c3816f07-d670-4b43-b5de-a71c0452d27f.png)
+
+
+
