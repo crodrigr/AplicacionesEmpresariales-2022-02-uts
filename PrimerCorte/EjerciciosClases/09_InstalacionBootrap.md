@@ -14,3 +14,7 @@
 
 **Pegamos dentro del proyecto**
 ![image](https://user-images.githubusercontent.com/31961588/185754849-d3ce728c-dd07-4b4d-b9b5-5f051eccff40.png)
+
+**Recomilamos el proyecto y se observa que cambia la fuente**
+
+![image](https://user-images.githubusercontent.com/31961588/185754909-f1f509c8-abec-4ffa-84a4-4b9fd8029ea0.png)
