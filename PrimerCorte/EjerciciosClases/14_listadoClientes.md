@@ -12,3 +12,5 @@
 ## 3. Se incluye el listadoCliente.jsp en clientes.jsp
 
 ![image](https://user-images.githubusercontent.com/31961588/185758372-c7db79be-d372-441a-8d68-ca433c0d57e9.png)
+
+![image](https://user-images.githubusercontent.com/31961588/185758557-be89105d-f15b-4c03-ad1c-b6b2031572ad.png)
