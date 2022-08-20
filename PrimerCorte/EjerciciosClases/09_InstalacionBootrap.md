@@ -18,3 +18,16 @@
 **Recomilamos el proyecto y se observa que cambia la fuente**
 
 ![image](https://user-images.githubusercontent.com/31961588/185754909-f1f509c8-abec-4ffa-84a4-4b9fd8029ea0.png)
+
+## 2. Implementar el font awesome
+
+![image](https://user-images.githubusercontent.com/31961588/185755017-71fe834b-3cfd-4fd4-94e6-159cbb669d1f.png)
+
+![image](https://user-images.githubusercontent.com/31961588/185755033-e926f983-acad-4ae4-9262-19065a62b70a.png)
+
+![image](https://user-images.githubusercontent.com/31961588/185755055-03139a76-6013-469d-a9d0-452129cdee6f.png)
+
+![image](https://user-images.githubusercontent.com/31961588/185755081-c6d1fdfb-c4a8-4273-96d3-6c96549403e6.png)
+
+![image](https://user-images.githubusercontent.com/31961588/185755198-66cafff8-9306-47d2-858c-76078f6888b6.png)
+
