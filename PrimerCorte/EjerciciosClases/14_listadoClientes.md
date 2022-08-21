@@ -35,3 +35,11 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/185815706-357716d7-b25d-4bc7-a81e-18ce75667b3b.png)
 
+### 4.3 Agregar taglib para dar formato a números
+
+![image](https://user-images.githubusercontent.com/31961588/185815777-d374c3bb-f5ae-45da-850b-1e96f25714d5.png)
+
+![image](https://user-images.githubusercontent.com/31961588/185815808-d0e37de3-8432-4168-9f6b-ef604e707e03.png)
+
+![image](https://user-images.githubusercontent.com/31961588/185815819-4f874f60-3e34-425e-bb68-a2e954a2b78f.png)
+
