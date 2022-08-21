@@ -29,3 +29,9 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/185815550-38a53fe6-64b1-4d59-a1a9-7d0a379cc83a.png)
 
+### 4.2 Agregar detalle de la tabla con el listado de clientes
+
+![image](https://user-images.githubusercontent.com/31961588/185815686-629b4af2-5d9b-42a5-a579-e49aa8cae27a.png)
+
+![image](https://user-images.githubusercontent.com/31961588/185815706-357716d7-b25d-4bc7-a81e-18ce75667b3b.png)
+
