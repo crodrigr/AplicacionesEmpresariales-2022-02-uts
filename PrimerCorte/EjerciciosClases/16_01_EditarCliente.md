@@ -13,3 +13,10 @@
 ![image](https://user-images.githubusercontent.com/31961588/185828366-cdf65623-0e9e-4cad-8204-ee9ac70b9b4b.png)
 
 
+## 4. Crear botonesNavegacionEdicion.jsp
+
+![image](https://user-images.githubusercontent.com/31961588/185830263-3cee5d6d-8119-4cb6-a489-9cbfb80d2d17.png)
+
+### .Add botones
+
+![image](https://user-images.githubusercontent.com/31961588/185830359-cb5b7f78-89cf-49b7-b157-4dba7d532d9c.png)
