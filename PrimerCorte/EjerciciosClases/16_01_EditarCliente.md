@@ -17,6 +17,6 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/185830263-3cee5d6d-8119-4cb6-a489-9cbfb80d2d17.png)
 
-### .Add botones
+### Add botones.
 
 ![image](https://user-images.githubusercontent.com/31961588/185830359-cb5b7f78-89cf-49b7-b157-4dba7d532d9c.png)
