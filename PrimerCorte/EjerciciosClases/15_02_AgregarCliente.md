@@ -28,4 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/185824324-ff52d04c-2559-44cb-a92e-789d2924848c.png)
 
+## 4. Cambio de alcance de request a session
+
+![image](https://user-images.githubusercontent.com/31961588/185824741-81b7f128-7160-4b43-b17b-17eda643f9ee.png)
 
