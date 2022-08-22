@@ -20,3 +20,13 @@
 ### Add botones.
 
 ![image](https://user-images.githubusercontent.com/31961588/185830359-cb5b7f78-89cf-49b7-b157-4dba7d532d9c.png)
+
+### Add include de botones en editarClientes.jsp
+
+![image](https://user-images.githubusercontent.com/31961588/185830829-1151f2ee-f68a-4f7f-bcb8-d738beb1446e.png)
+
+## 4. Formulario de modificar cliente
+
+![image](https://user-images.githubusercontent.com/31961588/185831051-08a298d6-6b84-41a3-ba6a-58651b8830a6.png)
+
+![image](https://user-images.githubusercontent.com/31961588/185831118-55698736-90ca-4578-ad6a-859f3dc73f4f.png)
