@@ -25,3 +25,13 @@ Tanto botonesNavegacion.jsp y listadoClientes.jsp están dentro de clientes.jsp
 
 ![image](https://user-images.githubusercontent.com/31961588/185819176-71d14ee0-439d-411d-a335-b27020133777.png)
 
+**Crear los campos del formulario**
+
+![image](https://user-images.githubusercontent.com/31961588/185819339-1a4ee15c-3812-4d31-b061-e585a4ff3f9f.png)
+
+**Add el botón del formulario**
+
+![image](https://user-images.githubusercontent.com/31961588/185819446-c56aa566-f5e3-44c7-b47f-e1bb38f18cae.png)
+
+![image](https://user-images.githubusercontent.com/31961588/185819460-7cd3f771-b00b-4c2a-9f5a-622406e77f4b.png)
+
