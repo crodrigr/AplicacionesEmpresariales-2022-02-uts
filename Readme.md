@@ -8,7 +8,7 @@
 
 
 ## Actividades pendientes
-- Quiz 20 de Agosto. (Presentación de introducción a Aplicaciones Empresariales S.O.L.I.D)
+- 31 de sep entrega en ATENEA de avance de construcción proyecto web con jsp.
 - Parcial va estar programado entre el **5 de 17 de Septiembre**. 
 
 ## Cronograma de Actividades Académicas del Segundo Semestre del 2022 
