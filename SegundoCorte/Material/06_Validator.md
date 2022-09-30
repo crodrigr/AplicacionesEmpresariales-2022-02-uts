@@ -14,8 +14,9 @@
 ![image](https://user-images.githubusercontent.com/31961588/193364755-24da3223-1880-4d09-a5f6-3ac77413b1e0.png)
 
 
-## 3. Modificamos la clase candidato agregando los siguientes atributos
+## 3. Modificamos la clase candidato agregando los siguientes atributos y método constructor
 
+- Candidato()
 - apellido
 - salarioDeseado
 
