@@ -51,3 +51,15 @@ Implementamos la interfaz PhaseListener y sobre escribimos los metodos
 </faces-config>
 
 ```
+
+## 5. Add en la clase Candidato y VacanteForm el log4j
+
+### 5.1
+
+![image](https://user-images.githubusercontent.com/31961588/193361224-e48398f9-13ab-4862-b4d0-8c88b2dfb56d.png)
+
+### 5.2
+
+![image](https://user-images.githubusercontent.com/31961588/193361356-97ad4875-ef26-41b9-9caf-082952cb4cda.png)
+
+
