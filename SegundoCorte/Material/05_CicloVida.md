@@ -69,6 +69,9 @@
 </project>
 
 ```
+#### 2.1 Revisar que el archivo log4j2.xml que está en other resource tenga la siguiente configuracón
+
+![image](https://user-images.githubusercontent.com/31961588/193407574-bfc6a011-d3e7-4e9e-a422-ad82e48f6a7e.png)
 
 
 ### 3. Crear la clase DebuggerListener
