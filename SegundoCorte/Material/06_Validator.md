@@ -31,5 +31,8 @@
 ![image](https://user-images.githubusercontent.com/31961588/193366955-c5cdb998-36a7-437f-86fc-bb2d777d25ba.png)
 
 
+## 4. Add jsf/core en index.html para usar las validaciones. 
+
+![image](https://user-images.githubusercontent.com/31961588/193386369-3638cd0c-2c42-40af-9702-eeb6ed81e70e.png)
 
 
