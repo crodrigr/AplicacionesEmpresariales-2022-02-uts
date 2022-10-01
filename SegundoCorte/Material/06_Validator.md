@@ -35,4 +35,17 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/193386369-3638cd0c-2c42-40af-9702-eeb6ed81e70e.png)
 
+### 4.1 Add required en nombre
+
+![image](https://user-images.githubusercontent.com/31961588/193386482-fcbbb7b0-aee9-4c3c-b490-655973642b7c.png)
+
+### 4.2 Add campo de apellido
+
+![image](https://user-images.githubusercontent.com/31961588/193386544-92853c3c-924f-4d19-ba0b-42bea0dde827.png)
+
+### 4.3 Add campo de salario deseado con validación 
+
+![image](https://user-images.githubusercontent.com/31961588/193386573-5dd85f48-cdd5-4cef-b598-b42c9f13ec81.png)
+
+
 
