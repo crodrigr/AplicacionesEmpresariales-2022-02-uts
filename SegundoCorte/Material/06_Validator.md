@@ -48,4 +48,12 @@
 ![image](https://user-images.githubusercontent.com/31961588/193386573-5dd85f48-cdd5-4cef-b598-b42c9f13ec81.png)
 
 
+# 5. Add método constructor en VacanteForm
+
+![image](https://user-images.githubusercontent.com/31961588/193386747-84995b97-b3be-45be-a474-7376848fcac5.png)
+
+
+# 6. Ajustar el método enviar con una validación 
+
+![image](https://user-images.githubusercontent.com/31961588/193392292-a0b1082d-e42f-4249-bf90-7d883735fa07.png)
 
