@@ -36,3 +36,8 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/193703143-b5983cf1-3c6f-4236-950d-b23583503afa.png)
 
+## 5. Clean and build y probamos
+
+![image](https://user-images.githubusercontent.com/31961588/193703348-d2b9b46a-f45a-44bf-9c76-757a8648bd40.png)
+
+
