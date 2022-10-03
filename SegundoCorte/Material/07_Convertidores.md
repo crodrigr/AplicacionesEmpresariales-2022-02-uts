@@ -35,4 +35,19 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/193694655-80b7adef-6e2f-4242-bd99-594ad12dcbdd.png)
 
+#### 2.5 Cleand and Build y Run para probar
+
+
+![image](https://user-images.githubusercontent.com/31961588/193695212-a0ded30c-ac6b-4f24-b96f-fffd9f7a9fea.png)
+
+#### 2.5.1 Test validación correcta. 
+
+![image](https://user-images.githubusercontent.com/31961588/193695335-1a1ef69b-7ba1-4edd-b7e8-fc907acc5bcf.png)
+
+
+![image](https://user-images.githubusercontent.com/31961588/193695410-f0fc739f-c4c3-405b-8a96-3182c4eda5b9.png)
+
+
+
+
 
