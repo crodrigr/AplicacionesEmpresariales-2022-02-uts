@@ -31,3 +31,8 @@
 ## 3. Se relaciona los archivos properties con al configuración de la aplicación. 
 
 ![image](https://user-images.githubusercontent.com/31961588/193700990-1225c8a0-c497-486b-af0b-8322498b08d3.png)
+
+## 4. Implementamos los mensajes en el formulario outputlabe en el index.xhtml
+
+![image](https://user-images.githubusercontent.com/31961588/193703143-b5983cf1-3c6f-4236-950d-b23583503afa.png)
+
