@@ -67,3 +67,6 @@ Esto se puede hacer de dos maneras: por defecto y programatica.
 ### 3.3 Ejecutamos. 
 
 ![image](https://user-images.githubusercontent.com/31961588/193882475-6f22eff1-3435-49d4-ac72-7030052cf523.png)
+
+![image](https://user-images.githubusercontent.com/31961588/193883252-6d6db6c1-a643-41a9-aaee-3f30624fa7bd.png)
+
