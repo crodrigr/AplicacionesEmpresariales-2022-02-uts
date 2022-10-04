@@ -36,3 +36,8 @@
 ### 4.3 En mensajes_en.properties se add los nuevos campos
 
 ![image](https://user-images.githubusercontent.com/31961588/193917804-ab090624-705a-446f-aa59-476c834a5f8e.png)
+
+### 4.4 Test
+
+![image](https://user-images.githubusercontent.com/31961588/193931317-09aef09c-0c61-43a8-85ee-3e0cebfca28d.png)
+
