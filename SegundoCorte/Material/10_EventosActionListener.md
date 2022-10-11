@@ -44,4 +44,14 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/195209426-2c5993aa-fc8e-4ea7-a009-faa3eeedeae9.png)
 
+## 5.4 Agregar mesajes es y en
+
+
+![image](https://user-images.githubusercontent.com/31961588/195210073-5e157ce5-d0c4-4040-a5cc-c117b27158ab.png)
+
+
+![image](https://user-images.githubusercontent.com/31961588/195210128-718448d5-3a6c-4672-b547-361642f8f274.png)
+
+
+
 
