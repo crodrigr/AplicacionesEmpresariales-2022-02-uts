@@ -54,4 +54,7 @@
 
 
 
+## 6. Ejecutar
+
+![image](https://user-images.githubusercontent.com/31961588/195210308-0814f95f-1be7-4dd9-b0eb-d5493e788a6d.png)
 
