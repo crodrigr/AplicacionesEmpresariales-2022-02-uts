@@ -62,4 +62,14 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/197422133-fc10439a-0b22-4681-8ce9-e802c81275ee.png)
 
+## 7. Crear la clase ClientePersonaService
+
+###7.1 
+
+![image](https://user-images.githubusercontent.com/31961588/197422732-e5488aad-e8c1-404e-9cfb-34ef686d02f9.png)
+
+### 7.2
+
+![image](https://user-images.githubusercontent.com/31961588/197423262-5e6557a2-b726-442b-baa7-50f1e9102aa7.png)
+
 
