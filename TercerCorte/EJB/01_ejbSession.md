@@ -89,6 +89,8 @@
 
 ### 8.2
 
-![image](https://user-images.githubusercontent.com/31961588/197423952-a8798a90-7abf-429c-8077-d4ff48ce0393.png)
+![image](https://user-images.githubusercontent.com/31961588/197424631-ea9071e1-d183-496b-bfb5-cc7ed971b60c.png)
 
+### 8.3 Ejecutamos 
 
+![image](https://user-images.githubusercontent.com/31961588/197424619-2d8a753f-6bb9-4712-9488-470b193ef223.png)
