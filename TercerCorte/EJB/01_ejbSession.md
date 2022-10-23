@@ -62,14 +62,33 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/197422133-fc10439a-0b22-4681-8ce9-e802c81275ee.png)
 
-## 7. Crear la clase ClientePersonaService
+## 7. Desplegar proyecto glassfish
 
-###7.1 
+### 7.1 
 
-![image](https://user-images.githubusercontent.com/31961588/197422732-e5488aad-e8c1-404e-9cfb-34ef686d02f9.png)
+![image](https://user-images.githubusercontent.com/31961588/197423529-c699f899-5553-4c84-bae0-43f5cd3c991a.png)
 
 ### 7.2
 
-![image](https://user-images.githubusercontent.com/31961588/197423262-5e6557a2-b726-442b-baa7-50f1e9102aa7.png)
+![image](https://user-images.githubusercontent.com/31961588/197423853-6ada79e4-a800-4418-8fa1-94b410a9cd1f.png)
+
+### 7.3
+
+![image](https://user-images.githubusercontent.com/31961588/197423881-8ab9455c-ddb7-4fa6-9b1d-7dbcebc5da2e.png)
+
+### 7.4
+
+![image](https://user-images.githubusercontent.com/31961588/197423898-0bfece0a-9140-4f5a-b4f9-4c2416c1fa42.png)
+
+
+## 8. Crear la clase ClientePersonaService
+
+### 8.1 
+
+![image](https://user-images.githubusercontent.com/31961588/197422732-e5488aad-e8c1-404e-9cfb-34ef686d02f9.png)
+
+### 8.2
+
+![image](https://user-images.githubusercontent.com/31961588/197423952-a8798a90-7abf-429c-8077-d4ff48ce0393.png)
 
 
