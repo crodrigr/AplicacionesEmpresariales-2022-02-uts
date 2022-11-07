@@ -79,13 +79,26 @@ Los métodos ya están sobreescritos
 ![image](https://user-images.githubusercontent.com/31961588/200224237-db0a6d7e-af8f-4fd3-8dc2-bdcc9a47afe6.png)
 
 
-### 7. Crear un servlet PersonaServlet
+## 7. Crear un servlet PersonaServlet
 
 ![image](https://user-images.githubusercontent.com/31961588/200224703-3949fb0a-4080-4301-a3ba-6946249f6222.png)
 
 #### 7.1 PersonaServlet
 
 ![image](https://user-images.githubusercontent.com/31961588/200224928-68cafc09-3f0d-4555-bcf2-54704430dea4.png)
+
+
+## 8. Crear jsp listadoPersonas.jsp
+
+![image](https://user-images.githubusercontent.com/31961588/200226458-0f87c439-abc3-4b31-b4b5-d14546d8a2ac.png)
+
+### 8.1 listadoPersonas.jsp
+
+![image](https://user-images.githubusercontent.com/31961588/200226685-5a002763-5fed-4b92-952c-60e4292fb03a.png)
+
+## 9. Clean and Build. Run en glassfish
+
+![image](https://user-images.githubusercontent.com/31961588/200226912-095af252-3ec9-4534-85e6-ac9a67904ad8.png)
 
 
 
