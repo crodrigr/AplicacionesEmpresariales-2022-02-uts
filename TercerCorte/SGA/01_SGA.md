@@ -62,6 +62,30 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/200222878-610260e4-bebb-4b93-af16-c653c56721a2.png)
 
+### 6. Crear la Interfaz PersonaService
+
+#### 6.1
+
+![image](https://user-images.githubusercontent.com/31961588/200223659-3b57d326-ab33-4c66-a103-8f5faf79bbb5.png)
+
+#### 6.2
+
+![image](https://user-images.githubusercontent.com/31961588/200223931-a58c02f1-03fc-4a4c-b9fc-289bd39d7f2f.png)
+
+#### 6.3 Implemetar en PersonaServiceImpl la interfaz PersonaService
+
+Los métodos ya están sobreescritos
+
+![image](https://user-images.githubusercontent.com/31961588/200224237-db0a6d7e-af8f-4fd3-8dc2-bdcc9a47afe6.png)
+
+
+### 7. Crear un servlet PersonaServlet
+
+![image](https://user-images.githubusercontent.com/31961588/200224703-3949fb0a-4080-4301-a3ba-6946249f6222.png)
+
+#### 7.1 PersonaServlet
+
+![image](https://user-images.githubusercontent.com/31961588/200224928-68cafc09-3f0d-4555-bcf2-54704430dea4.png)
 
 
 
