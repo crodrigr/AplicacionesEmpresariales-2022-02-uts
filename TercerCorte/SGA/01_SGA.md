@@ -42,5 +42,26 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/200221673-e7b3bc0d-a0f0-419d-9954-e0d46b6cae29.png)
 
+### 4.5 Validar configuración bean.xml
+
+![image](https://user-images.githubusercontent.com/31961588/200221898-4bf2d7df-9291-445d-9b2d-d4378e7f2fc1.png)
+
+### 4.6 Validar configuracion del web.xml
+
+![image](https://user-images.githubusercontent.com/31961588/200222086-3f4a5025-5629-4902-9419-07b4bccaaa53.png)
+
+### 4.7 Validar configuración incial del pom.xml
+
+![image](https://user-images.githubusercontent.com/31961588/200222321-1add679a-c7cc-4a4c-bcf1-f51b7d992f28.png)
+
+![image](https://user-images.githubusercontent.com/31961588/200222407-fd0fe370-425a-411e-a49b-545f866141b3.png)
+
+### 5. Del proyecto anterior se copia y se pega al proyecto web
+
+![image](https://user-images.githubusercontent.com/31961588/200222810-87ff7b58-a6d6-4fca-acb4-e7618004e8fd.png)
+
+![image](https://user-images.githubusercontent.com/31961588/200222878-610260e4-bebb-4b93-af16-c653c56721a2.png)
+
+
 
 
