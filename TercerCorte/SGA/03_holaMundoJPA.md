@@ -63,4 +63,10 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/200234579-7f882f50-7d87-4901-a18e-3e3fa87d6877.png)
 
+### 4.2 Ejecutar
 
+![image](https://user-images.githubusercontent.com/31961588/200234786-e60cd6a4-7cda-4de0-9140-9c25fa9ba433.png)
+
+### 4.3 
+
+![image](https://user-images.githubusercontent.com/31961588/200234912-7273248b-eebc-4a7b-98d0-21a76b82a93a.png)
