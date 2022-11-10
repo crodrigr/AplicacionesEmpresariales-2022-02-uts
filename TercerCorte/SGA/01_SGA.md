@@ -1,4 +1,4 @@
-# 1. Sistema de Gestión de Aluminos: EJB,JPA y JFS
+# 1. Sistema de Gestión de Alumnos: EJB,JPA y JFS
 
 ## 1.SGA
 
