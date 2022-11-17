@@ -7,9 +7,8 @@
 - Sábado  06:00 a 07:30
 
 
-## Actividades pendientes
-- 31 de agosto entrega en ATENEA de avance (08) de construcción proyecto web con jsp.
-### - Parcial II para el día Sábado 22 de Octubre.
+![image](https://user-images.githubusercontent.com/31961588/202432977-a8458423-85cf-4250-b089-4adc966a6e32.png)
+
 
 ## Cronograma de Actividades Académicas del Segundo Semestre del 2022 
 
