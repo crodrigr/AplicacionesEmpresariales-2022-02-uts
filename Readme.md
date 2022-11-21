@@ -1,6 +1,6 @@
 ## Desarrollo de Aplicaciones Empresariales- UTS 2022-02
 
-[Teams-Clase-Jueves-24-Nov](https://teams.microsoft.com/l/meetup-join/19%3aNLyomYdBft06Ksejq-mKgBvy7sNnDTTN6ugsFZhI_P81%40thread.tacv2/1668988913102?context=%7b%22Tid%22%3a%228c28de3c-6c8e-40a2-beec-bd8827b92802%22%2c%22Oid%22%3a%2263c75d32-d6ad-4b53-a9e7-fe9a128c7421%22%7d)
+# Estimados estudiantes. El encuentro virtual no se puede realizar. Clase normal.
 
 
 **Grupo D192**
